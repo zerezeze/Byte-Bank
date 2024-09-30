@@ -1,16 +1,18 @@
-![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
+# Bytebank
 
-# Typescript: orientação a objetos
+O Bytebank é um projeto que demonstra a aplicação do TypeScript em um sistema bancário simples. O objetivo é proporcionar uma compreensão prática dos conceitos e funcionalidades do TypeScript, promovendo boas práticas de programação.
 
-Este projeto faz parte da escola Front-end e tem como objetivo ensinar a transformar trechos de código originalmente cosntruídos em programação funcional para programação orientada a objetos, destacando as diferenças entre os dois paradigmas.
+## Funcionalidades
 
-## Funcionalidades do projeto
+- **Gerenciamento de Saldo**: Permite realizar depósitos e saques, com validações para evitar saldo negativo e entradas inválidas.
+- **Registro de Transações**: Mantém um histórico de todas as transações realizadas, facilitando o acompanhamento financeiro.
+- **Organização Modular**: O código é estruturado em módulos, tornando-o mais legível e fácil de manter.
 
-O projeto contará com o desenvolvimento de:
+## Tecnologias Utilizadas
 
-- Classe conta e armazenador;
-- Atributos e construtor de conta;
-- Modificadores de acesso;
-- Métodos estáticos;
-- Herança de classes;
-- Decorators de validação.
+- **TypeScript**: Proporciona uma tipagem estática, tornando o código mais seguro e fácil de entender.
+- **JavaScript**: Base do projeto, aproveitando suas funcionalidades modernas para a construção da aplicação.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias ou novas funcionalidades.
