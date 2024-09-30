@@ -16,3 +16,5 @@ O Bytebank é um projeto que demonstra a aplicação do TypeScript em um sistema
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias ou novas funcionalidades.
+
+<img src="bytebank.png"></img>
